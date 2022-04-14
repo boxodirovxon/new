@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.XON{
+    width: 220px;
+    height: 70px;
+    border: 1px solid;
+}
+.iii{
+    width: 220px;
+    height: 70px;
+    border: 1px solid; 
+}
+.insta{
+    width: 220px;
+    height: 70px;
+    border: 1px solid;
+}
+.twich{
+    width: 220px;
+    height: 70px;
+    border: 1px solid;
+}
+.XON:hover{
+    background-color:rgba(255, 225, 0, 0.515) ;
+    color: blue;
+}
+.XON:active{
+    background-color: rgb(0, 164, 0);
+}
+.iii:hover{
+    background-color:rgba(255, 225, 0, 0.515) ;
+    color: blue;
+}
+.iii:active{
+    background-color: rgb(0, 164, 0);
+}
+.insta:hover{
+    background-color:rgba(255, 225, 0, 0.515) ;
+    color: red;
+}
+.twich:hover{
+    background-color:rgba(255, 225, 0, 0.515) ;
+    color:indigo;
+}
